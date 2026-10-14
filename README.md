@@ -18,7 +18,7 @@ ESTRUCTURA DE ARCHIVOS Y CARPETAS:
 
 --------------------------------------------------
 
-- ./data/reservas.csv                     -> Archivo de entrada con los datos originales.
+- ./data/reservas.csv                     -> Archivo de entrada con los datos originales. La estructura debe ser "origen (ISO)", "destino (ISO)", "compañia", "fecha", "nombre Pasajero"
 
 - ./data/listaReservas/                   -> Directorio que contiene los resultados procesados.
 
